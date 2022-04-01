@@ -11,4 +11,5 @@ public class DetailedReportResource {
 	public String SystemMessage;
 	public String DlrStatus;
 	public String Sender;
+	public int Credits;
 }
